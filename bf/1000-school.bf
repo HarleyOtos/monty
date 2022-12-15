@@ -67,4 +67,3 @@
 < +++++ +++++				Add 10 to c0
 
 .							Translates the c0 value 0 to "\0"!
-
