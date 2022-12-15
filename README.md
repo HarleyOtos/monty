@@ -6,7 +6,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 ### Data structures
 Please use the following data structures for this project. Don’t forget to include them in your header file.
 
-    /**
+    `/**
     * struct stack_s - doubly linked list representation of a stack (or queue)
     * @n: integer
     * @prev: points to the previous element of the stack (or queue)
@@ -20,7 +20,7 @@ Please use the following data structures for this project. Don’t forget to inc
             int n;
             struct stack_s *prev;
             struct stack_s *next;
-    } stack_t;
+    } stack_t;`
 
 
     `/**
